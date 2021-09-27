@@ -1,0 +1,7 @@
+Para fazer isso: 
+-Abre o PowerShell em modo de administrador
+-Digita "Set-ExecutionPolicy -ExecutionPolicy Unrestricted"
+
+Depois quando terminar:
+-Abre o PowerShell em modo de administrador
+-Digita "Set-ExecutionPolicy -ExecutionPolicy Default"
